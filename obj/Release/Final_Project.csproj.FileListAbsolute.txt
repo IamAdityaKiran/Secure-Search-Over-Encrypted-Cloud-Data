@@ -1,0 +1,8 @@
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\bin\Final_Project.dll
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\bin\Final_Project.pdb
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\bin\CSML.dll
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\obj\Release\Interop.Mathworks_TOGGLELib.dll
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\obj\Release\Interop.MLApp.dll
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\obj\Release\Final_Project.csproj.ResolveComReference.cache
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\obj\Release\Final_Project.dll
+C:\Users\y12cs927\Documents\Visual Studio 2012\Projects\Final_Project\Final_Project\obj\Release\Final_Project.pdb

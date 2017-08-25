@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="aditya.keys">
+      <publishTime>01/21/2016 15:17:05</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>01/05/2016 16:30:22</publishTime>
+    </File>
+    <File Include="bin/CSML.dll">
+      <publishTime>07/04/2007 12:03:14</publishTime>
+    </File>
+    <File Include="bin/Final_Project.dll">
+      <publishTime>02/16/2016 10:20:16</publishTime>
+    </File>
+    <File Include="DataOwner.aspx">
+      <publishTime>01/19/2016 11:03:54</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/01/2016 14:23:27</publishTime>
+    </File>
+    <File Include="UserHome.aspx">
+      <publishTime>01/25/2016 14:20:15</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/16/2016 10:20:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
